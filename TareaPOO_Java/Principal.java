@@ -68,7 +68,7 @@ public class Principal {
         System.out.println("\n--- INTERACTUANDO CON " + gato3.nombre + " ---");
         gato3.revisarSalud();   
         gato3.ronronear();
-        gato3.comer("premium"); 
+        gato3.comer("Whiskas"); 
         gato3.jugar();      
         gato3.cazar();         
         gato3.maullar(4);        
